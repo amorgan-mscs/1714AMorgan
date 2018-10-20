@@ -35,7 +35,7 @@ FROM            Apartment INNER JOIN
                          Person ON Apartment.TenantID = Person.PersonID AND Apartment.AdminID = Person.PersonID
 ORDER BY Apartment.BuildingID, TenantFirstName, TenantLastName
 -- 2A.7) Invoice, LineItem tables. Sort by ApartmentID, InvoiveDate
-SELECT        Invoice.ApartmentID, Invoice.InvoiceDate, LineItem.Description, LineItem.Amount
+SELECT        Invoice.ApartmentID, Invoice.InvoiceID, Invoice.InvoiceDate, LineItem.Description, LineItem.Amount
 FROM            Invoice INNER JOIN
                          LineItem ON Invoice.InvoiceID = LineItem.InvoiceID
 ORDER BY Invoice.ApartmentID, Invoice.InvoiceDate DESC
@@ -43,7 +43,7 @@ ORDER BY Invoice.ApartmentID, Invoice.InvoiceDate DESC
 SELECT        Invoice.ApartmentID, LineItem.InvoiceID, Invoice.InvoiceDate, LineItem.Description, LineItem.Amount
 FROM            Invoice INNER JOIN
                          LineItem ON Invoice.InvoiceID = LineItem.InvoiceID
-WHERE        (LineItem.Description = N'Rent' AND LineItem.Description = N'Garage')
+WHERE        (LineItem.Description = N'Rent, October 2018') AND (LineItem.Description = N'Garage')
 ORDER BY Invoice.ApartmentID, Invoice.InvoiceDate DESC
 -- 2A.9) Invoice, Receipt tables. Sort by ApartmentID, InvoiceID
 SELECT        Invoice.ApartmentID, Receipt.InvoiceID, Invoice.DueDate, Receipt.ReceiptDate, Receipt.Amount

@@ -35,6 +35,60 @@
           <AssociatedConnUserName />
           <FullPath>1714AMorgan2ADatabaseDiagram.JPG</FullPath>
         </FileNode>
+        <FileNode Name="AMorgan1714ex2A01.JPG">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>AMorgan1714ex2A01.JPG</FullPath>
+        </FileNode>
+        <FileNode Name="AMorgan1714ex2A02.JPG">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>AMorgan1714ex2A02.JPG</FullPath>
+        </FileNode>
+        <FileNode Name="AMorgan1714ex2A03.JPG">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>AMorgan1714ex2A03.JPG</FullPath>
+        </FileNode>
+        <FileNode Name="AMorgan1714ex2A04.JPG">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>AMorgan1714ex2A04.JPG</FullPath>
+        </FileNode>
+        <FileNode Name="AMorgan1714ex2A05.JPG">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>AMorgan1714ex2A05.JPG</FullPath>
+        </FileNode>
+        <FileNode Name="AMorgan1714ex2A06.JPG">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>AMorgan1714ex2A06.JPG</FullPath>
+        </FileNode>
+        <FileNode Name="AMorgan1714ex2A07.JPG">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>AMorgan1714ex2A07.JPG</FullPath>
+        </FileNode>
+        <FileNode Name="AMorgan1714ex2A08JPG.JPG">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>AMorgan1714ex2A08JPG.JPG</FullPath>
+        </FileNode>
+        <FileNode Name="AMorgan1714ex2A09.JPG">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>AMorgan1714ex2A09.JPG</FullPath>
+        </FileNode>
       </Items>
     </LogicalFolder>
   </Items>
