@@ -8,7 +8,62 @@
       <Items />
     </LogicalFolder>
     <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
-      <Items />
+      <Items>
+        <FileNode Name="AMORGAN1714EX2B01.JPG">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>AMORGAN1714EX2B01.JPG</FullPath>
+        </FileNode>
+        <FileNode Name="AMORGAN1714EX2B02.JPG">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>AMORGAN1714EX2B02.JPG</FullPath>
+        </FileNode>
+        <FileNode Name="AMORGAN1714EX2B03.JPG">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>AMORGAN1714EX2B03.JPG</FullPath>
+        </FileNode>
+        <FileNode Name="AMORGAN1714EX2B04.JPG">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>AMORGAN1714EX2B04.JPG</FullPath>
+        </FileNode>
+        <FileNode Name="AMORGAN1714EX2B05.JPG">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>AMORGAN1714EX2B05.JPG</FullPath>
+        </FileNode>
+        <FileNode Name="AMORGAN1714EX2B06.JPG">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>AMORGAN1714EX2B06.JPG</FullPath>
+        </FileNode>
+        <FileNode Name="AMORGAN1714EX2B07.JPG">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>AMORGAN1714EX2B07.JPG</FullPath>
+        </FileNode>
+        <FileNode Name="AMORGAN1714EX2B08.JPG">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>AMORGAN1714EX2B08.JPG</FullPath>
+        </FileNode>
+        <FileNode Name="AMORGAN1714EX2B09.JPG">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>AMORGAN1714EX2B09.JPG</FullPath>
+        </FileNode>
+      </Items>
     </LogicalFolder>
   </Items>
 </SqlWorkbenchSqlProject>

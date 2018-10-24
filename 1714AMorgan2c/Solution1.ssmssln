@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# SQL Server Management Studio Solution File, Format Version 14.00
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "1714AMorgan1i", "..\1714AMorgan1i\1714AMorgan1i.ssmssqlproj", "{FFE718A1-C670-4E42-8F14-C278E94D9314}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "1714AMorgan2A", "..\1714AMorgan2A\1714AMorgan2A.ssmssqlproj", "{2B6055A9-F090-4EF4-BF92-4712E6677C1F}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "1714AMorgan2b", "..\1714AMorgan2b\1714AMorgan2b.ssmssqlproj", "{9768FA71-84D1-446D-B9D7-20500BE1C2F4}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "1714AMorgan2c", "1714AMorgan2c.ssmssqlproj", "{BBCC7301-29CD-48F6-BC9A-D4DE6A0DF921}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B11A236F-0B60-4BA4-AFB2-67803969BC45}.Default|Default.ActiveCfg = Default
+		{FFE718A1-C670-4E42-8F14-C278E94D9314}.Default|Default.ActiveCfg = Default
+		{2B6055A9-F090-4EF4-BF92-4712E6677C1F}.Default|Default.ActiveCfg = Default
+		{9768FA71-84D1-446D-B9D7-20500BE1C2F4}.Default|Default.ActiveCfg = Default
+		{BBCC7301-29CD-48F6-BC9A-D4DE6A0DF921}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
