@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="1714AMorganex2D">
+  <Items>
+    <LogicalFolder Name="Connections" Type="2" Sorted="true">
+      <Items />
+    </LogicalFolder>
+    <LogicalFolder Name="Queries" Type="0" Sorted="true">
+      <Items />
+    </LogicalFolder>
+    <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
+      <Items>
+        <FileNode Name="AMORGAN1714EX2D01.JPG">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>AMORGAN1714EX2D01.JPG</FullPath>
+        </FileNode>
+        <FileNode Name="AMORGAN1714EX2D02.JPG">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>AMORGAN1714EX2D02.JPG</FullPath>
+        </FileNode>
+        <FileNode Name="AMORGAN1714EX2D03.JPG">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>AMORGAN1714EX2D03.JPG</FullPath>
+        </FileNode>
+        <FileNode Name="AMORGAN1714EX2D04.JPG">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>AMORGAN1714EX2D04.JPG</FullPath>
+        </FileNode>
+        <FileNode Name="AMORGAN1714EX2D05.JPG">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>AMORGAN1714EX2D05.JPG</FullPath>
+        </FileNode>
+        <FileNode Name="AMORGAN1714EX2D06.JPG">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>AMORGAN1714EX2D06.JPG</FullPath>
+        </FileNode>
+        <FileNode Name="AMORGAN1714EX2D07.JPG">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>AMORGAN1714EX2D07.JPG</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>
