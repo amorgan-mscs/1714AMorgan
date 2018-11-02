@@ -3,15 +3,18 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # SQL Server Management Studio Solution File, Format Version 14.00
 VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "1714AMorganex2D", "1714AMorganex2D.ssmssqlproj", "{36E47610-395D-491B-9F7C-3FBAF0C5F429}"
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "1714AMorganex2D", "1714AMorganex2D.ssmssqlproj", "{0E17578D-645F-421F-B002-79D8DCD84CF9}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "1714AMorgan2c", "..\1714AMorgan2c\1714AMorgan2c.ssmssqlproj", "{F7E32C76-503E-4FD6-9AEA-6D45406773B2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Default|Default = Default|Default
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{2483E8C4-D4EB-4B65-BE0F-43EF82379D4F}.Default|Default.ActiveCfg = Default
-		{36E47610-395D-491B-9F7C-3FBAF0C5F429}.Default|Default.ActiveCfg = Default
+		{28B182C6-A85D-40B5-8E39-7E0AB112FC6A}.Default|Default.ActiveCfg = Default
+		{0E17578D-645F-421F-B002-79D8DCD84CF9}.Default|Default.ActiveCfg = Default
+		{F7E32C76-503E-4FD6-9AEA-6D45406773B2}.Default|Default.ActiveCfg = Default
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
