@@ -28,7 +28,56 @@
       </Items>
     </LogicalFolder>
     <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
-      <Items />
+      <Items>
+        <FileNode Name="AMORGAN1714EX2E01.JPG">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>AMORGAN1714EX2E01.JPG</FullPath>
+        </FileNode>
+        <FileNode Name="AMORGAN1714EX2E02.JPG">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>AMORGAN1714EX2E02.JPG</FullPath>
+        </FileNode>
+        <FileNode Name="AMORGAN1714EX2E03.JPG">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>AMORGAN1714EX2E03.JPG</FullPath>
+        </FileNode>
+        <FileNode Name="AMORGAN1714EX2E04.JPG">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>AMORGAN1714EX2E04.JPG</FullPath>
+        </FileNode>
+        <FileNode Name="AMORGAN1714EX2E05.JPG">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>AMORGAN1714EX2E05.JPG</FullPath>
+        </FileNode>
+        <FileNode Name="AMORGAN1714EX2E06.JPG">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>AMORGAN1714EX2E06.JPG</FullPath>
+        </FileNode>
+        <FileNode Name="AMORGAN1714EX2E07.JPG">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>AMORGAN1714EX2E07.JPG</FullPath>
+        </FileNode>
+        <FileNode Name="AMORGAN1714EX2E08.JPG">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>AMORGAN1714EX2E08.JPG</FullPath>
+        </FileNode>
+      </Items>
     </LogicalFolder>
   </Items>
 </SqlWorkbenchSqlProject>
